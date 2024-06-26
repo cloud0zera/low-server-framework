@@ -1,0 +1,7 @@
+{
+    "low.config": {
+        "version": "1.0",
+        "port": 3030,
+        "message_server_on": "The Low/Node Server is Online in @port"
+    }
+}

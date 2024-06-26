@@ -1,0 +1,14 @@
+{
+    "name": "low-server",
+    "version": "1.0.0",
+    "description": "Servidor para o framework LoW",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "low-controllers": "git+https://github.com/usuario/low-controllers.git"
+    }
+  }
+  

@@ -1,2 +1,2 @@
-# low-server-framework
- This is the framework Low from Node.js
+# low-server
+Low is a Framework Node.
